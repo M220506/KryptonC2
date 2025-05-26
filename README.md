@@ -62,19 +62,13 @@ https://github.com/CirqueiraDev/KryptonC2/assets/118860604/39c37798-fba0-4d95-94
 <br>
 
 # Owner Code
-📌**Credits:** https://github.com/NixWasHere/NixC2
+📌**Source:** https://github.com/NixWasHere/NixC2
 
-<br>
+**KryptonC2 by:**
 
----
-
-**👑Author:**
-
-- **CirqueiraDev**
 - **Discord: cirqueira**
 
 <div>
     
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sirkeirax/)
-  [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cirqueiradev)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cirqueirax/)
 </div>
