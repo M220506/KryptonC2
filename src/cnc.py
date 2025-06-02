@@ -280,7 +280,7 @@ def captcha(send, client, grey):
     x = ''
     send(client, ansi_clear, False)
     send(client, f'{grey}Captcha: {color("LIGHTWHITE_EX")}{a} + {b} = ', False, False)
-    x = int(client.recv(65536).decode().strip())
+    x = int(client.recv(1024).decode().strip())
     time.sleep(0.4)
     if x == c or x == 669787761736865726500:
         send(client, f'{grey}Passed!')
